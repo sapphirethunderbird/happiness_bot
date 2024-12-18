@@ -1,4 +1,6 @@
 # OS Files #
 .DS_Store
 
+# Virtual Environment #
+.venv
 
